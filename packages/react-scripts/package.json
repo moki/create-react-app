@@ -61,6 +61,9 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
+  "peerDependencies": {
+    "react-hot-loader": "@next"
+  },
   "optionalDependencies": {
     "fsevents": "1.1.2"
   }
